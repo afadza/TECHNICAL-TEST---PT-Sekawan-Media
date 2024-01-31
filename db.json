@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@mail.com",
+      "password": "12345678",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "email": "user2@mail.com",
+      "password": "12345678",
+      "role": "guest"
+    },
+    {
+      "id": "3",
+      "email": "user3@mail.com",
+      "password": "12345678",
+      "role": "guest"
+    },
+    {
+      "id": "4",
+      "email": "user4@mail.com",
+      "password": "12345678",
+      "role": "guest"
+    },
+    {
+      "id": "5",
+      "email": "user5@mail.com",
+      "password": "12345678",
+      "role": "guest"
+    }
+  ],
+  "tickets": [
+    {
+      "id": "9d38",
+      "username": "Jhon Doe",
+      "description": "Ticket 1",
+      "priority": "normal",
+      "status": "on hold"
+    },
+    {
+      "id": "c52e",
+      "username": "Jhon Doe",
+      "description": "Ticket 2",
+      "priority": "low",
+      "status": "on hold"
+    },
+    {
+      "id": "60e4",
+      "username": "Jhon Doe",
+      "description": "Ticket 3",
+      "priority": "high",
+      "status": "unresolved"
+    },
+    {
+      "id": "3c08",
+      "username": "Jhon Doe",
+      "description": "Ticket 4",
+      "priority": "high",
+      "status": "unresolved"
+    },
+    {
+      "id": "6f05",
+      "username": "Jhon Doe",
+      "description": "Ticket 5",
+      "priority": "normal",
+      "status": "unresolved"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "5020",
+      "formData": {
+        "status": "default",
+        "title": "New Task 1"
+      }
+    },
+    {
+      "id": "7319",
+      "formData": {
+        "status": "urgent",
+        "title": "New Task 2"
+      }
+    },
+    {
+      "id": "b112",
+      "formData": {
+        "status": "new",
+        "title": "New Task 3"
+      }
+    },
+    {
+      "id": "157b",
+      "formData": {
+        "status": "urgent",
+        "title": "New Task 4"
+      }
+    }
+  ]
+}
